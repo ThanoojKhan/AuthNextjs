@@ -32,7 +32,6 @@ const SignupPage = () => {
     } catch (error: any) {
       toast.error(error.message)
     }
-
   }
 
   return (
